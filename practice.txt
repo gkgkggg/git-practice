@@ -1,0 +1,13 @@
+Git and GitHub Practice Checklist
+
+1. Create a repository named git-practice.
+2. Include README.md and .gitignore.
+3. Add useful practice files to reach at least five files.
+4. Record at least five meaningful commits.
+5. Publish the repository on GitHub with public visibility.
+6. Check the files and commit history before submitting.
+
+Key distinction:
+add = prepare a snapshot
+commit = record the snapshot locally
+push = send commits to the remote repository
